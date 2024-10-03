@@ -1,0 +1,14 @@
+1.Framework Populer dan Terpercaya
+-Salah satu framework PHP yang paling banyak digunakan.
+2.Pengembangan yang Cepat dan Efisien
+-Mempercepat proses pengembangan aplikasi web.
+3.Komunitas yang Kuat
+-Banyak dukungan, dokumentasi, dan tutorial yang tersedia.
+4.Fitur Canggih dan Modern
+-Menyediakan Eloquent ORM, routing, middleware, dan banyak lagi.
+5.Meningkatkan Keterampilan Pengembangan Web
+-Memperdalam pemahaman tentang pengembangan aplikasi web.
+6.Peluang Karir yang Baik
+-Banyak perusahaan mencari pengembang yang menguasai Laravel.
+7.Mendukung Pengembangan Aplikasi Besar
+-Cocok untuk proyek skala kecil hingga besar.
